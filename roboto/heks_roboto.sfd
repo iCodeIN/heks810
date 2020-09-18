@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1221222574
-ModificationTime: 1600397275
+ModificationTime: 1600452832
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1049,7 +1049,7 @@ FitToEm: 0
 WinInfo: 54 27 9
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114512 507
+BeginChars: 1114512 508
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -4644,102 +4644,25 @@ Encoding: 104 104 74
 Width: 1128
 GlyphClass: 2
 Flags: W
-TtInstrs:
-PUSHB_3
- 10
- 18
- 19
-SRP1
-SRP2
-IP
-SVTCA[y-axis]
-PUSHB_1
- 16
-MDAP[rnd]
-PUSHB_1
- 0
-RCVT
-IF
-PUSHB_1
- 2
-MDAP[rnd]
-ELSE
-PUSHB_2
- 2
- 26
-MIAP[no-rnd]
-EIF
-PUSHB_1
- 0
-RCVT
-IF
-PUSHB_1
- 5
-MDAP[rnd]
-ELSE
-PUSHB_2
- 5
- 18
-MIAP[no-rnd]
-EIF
-PUSHB_1
- 0
-RCVT
-IF
-PUSHB_1
- 14
-MDAP[rnd]
-ELSE
-PUSHB_2
- 14
- 18
-MIAP[no-rnd]
-EIF
-PUSHB_3
- 0
- 2
- 5
-SRP1
-SRP2
-IP
-PUSHB_1
- 2
-SRP0
-PUSHB_2
- 10
- 1
-PUSHB_1
- 10
-CALL
-IF
-POP
-MDRP[rp0,min,grey]
-ELSE
-MIRP[rp0,rnd,grey]
-EIF
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-325 951 m 1,0,1
- 448 1102 448 1102 645 1102 c 0,2,3
- 988 1102 988 1102 991 715 c 2,4,-1
+325 663 m 1,0,1
+ 448 814 448 814 645 814 c 0,2,3
+ 991 814 991 814 991 427 c 2,4,-1
  991 0 l 1,5,-1
  806 0 l 1,6,-1
- 806 716 l 2,7,8
- 805 833 805 833 752.5 889 c 128,-1,9
- 700 945 700 945 589 945 c 0,10,11
- 499 945 499 945 431 897 c 128,-1,12
- 363 849 363 849 325 771 c 1,13,-1
- 325 0 l 1,14,-1
- 140 0 l 1,15,-1
- 140 1536 l 1,16,-1
- 325 1536 l 1,17,-1
- 325 951 l 1,0,1
+ 806 428 l 2,7,8
+ 806 544 806 544 752.5 601 c 0,9,10
+ 700 657 700 657 589 657 c 0,11,12
+ 499 657 499 657 431 609 c 128,-1,13
+ 363 561 363 561 325 483 c 1,14,-1
+ 325 0 l 1,15,-1
+ 140 0 l 1,16,-1
+ 140 1386 l 5,17,-1
+ 325 1386 l 5,18,-1
+ 325 663 l 1,0,1
 EndSplineSet
-Validated: 513
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 1 subtable" H.c2sc
 EndChar
 
@@ -19403,7 +19326,6 @@ SplineSet
  473 -280 473 -280 473 -235 c 256,0,1
 EndSplineSet
 Refer: 74 104 N 1 0 0 1 0 0 3
-Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 4 subtable" h dotbelowcomb
 EndChar
 
@@ -27464,6 +27386,31 @@ SplineSet
  1036 0 l 1,11,-1
  819 0 l 1,12,-1
  442 501 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: Dcaron
+Encoding: 270 270 507
+Width: 1128
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+325 663 m 1,0,1
+ 448 814 448 814 645 814 c 0,2,3
+ 991 814 991 814 991 427 c 2,4,-1
+ 991 0 l 1,5,-1
+ 806 0 l 1,6,-1
+ 806 428 l 2,7,8
+ 806 544 806 544 752.5 601 c 0,9,10
+ 700 657 700 657 589 657 c 0,11,12
+ 499 657 499 657 431 609 c 128,-1,13
+ 363 561 363 561 325 483 c 1,14,-1
+ 325 0 l 1,15,-1
+ 140 0 l 1,16,-1
+ 140 1386 l 5,17,-1
+ 325 1386 l 5,18,-1
+ 325 663 l 1,0,1
 EndSplineSet
 EndChar
 EndChars
