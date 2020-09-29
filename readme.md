@@ -5,7 +5,7 @@ roboto510(5+5=10=?X?) -> roboto810(8+8=10=4X4)
 ![heksadesiml mqxhs](https://media.giphy.com/media/H69JHPOAQLNfT0OgPv/giphy.gif)  
 
 ## steps tu instal **roboto_heks_jk.ttf** phont & **hpop kibord** on android mobail
-1. daunload & install [roboto_heks_jk phont][roboto heksbin phonts]
+1. daunload & install [roboto510 roboto810 robotobin]
     1. font can be edited using **fontforge** open source softveyr.
     2. hao tu **instal** phont on yuAr mobile **dipAnds** on yuAr mobail **modAl**
     3. yu kn du gugAl src - custom font install android 2019
@@ -81,7 +81,7 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 [iot maths](https://heksinglish.tumblr.com/post/629519441992007680/iot-maths-mathematics-future-technology)
 
 #### rephrens lifks:  
-[roboto heksbin phonts]: http://github.com/Font77/hpop/tree/master/app/src/main/res/font
+[roboto510 roboto810 robotobin]: https://github.com/Font77/heks810
 [github hpop apk lifk]: https://github.com/Font77/hpop/tree/master/app/release
 [hqkqrskibord_yu_ar_ql]: https://github.com/klausw/hackerskeyboard
 
