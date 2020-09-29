@@ -2,7 +2,8 @@ ascii510(5+5=10=?X?) -> ascii810(8+8=10=4X4)
 roboto510(5+5=10=?X?) -> roboto810(8+8=10=4X4)
 # hpop kibord phur qndroed (Android)
 ![hpop imej giphy](https://media.giphy.com/media/BZ78kudbc1xy5C1Wp2/giphy.gif)
-![heksadesiml mqxhs](https://media.giphy.com/media/H69JHPOAQLNfT0OgPv/giphy.gif)  
+![heksadesiml mqxhs](https://media.giphy.com/media/H69JHPOAQLNfT0OgPv/giphy.gif) 
+[cart](https://gfycat.com/gargantuancourteousasp)
 
 ## steps tu instal **roboto_heks_jk.ttf** phont & **hpop kibord** on android mobail
 1. daunload & install [roboto510 roboto810 robotobin]
