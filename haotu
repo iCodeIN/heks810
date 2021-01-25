@@ -1,0 +1,13 @@
+1. to change mint system font : settings ->
+========
+chrome://settings/fonts
+Standard font and size. Default: (Times New Roman) on Windows.
+Serif font. Default (Times New Roman) on Windows.
+Sans-serif font. Default (Arial) on Windows.
+Fixed-width font. Default (Consolas) on Windows.
+Minimum font size. Default Tiny on Windows.
+=========
+1. lower-resolution displays, sans-serifs tend to display better
+2. higher-resolution displays can better handle the fine details of serifs
+3. I predict we’ll see serif typefaces used more on the web in the coming years.
+=========
