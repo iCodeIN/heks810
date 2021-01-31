@@ -11,3 +11,22 @@ Minimum font size. Default Tiny on Windows.
 2. higher-resolution displays can better handle the fine details of serifs
 3. I predict we’ll see serif typefaces used more on the web in the coming years.
 =========
+linuks font places :
+1. ~/.local/share/fonts
+2. /usr/share/fonts/truetype/
+=================
+Method 1 gksu nautilus
+* create /usr/share/fonts/truetype/
+* copy font files to new location.
+* sudo fc-cache -fv
+Method 2
+sudo ln -s /path/to/fontfiles /usr/share/fonts/fontfiles
+sudo fc-cache -fv
+Per-user Installation
+mkdir .fonts
+* copy font files to the new location
+fc-cache -fv
+========
+Installing Microsoft Fonts
+sudo apt-get install ttf-mscorefonts-installer
+========
