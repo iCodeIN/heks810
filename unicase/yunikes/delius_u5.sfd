@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1314993210
-ModificationTime: 1614742677
+ModificationTime: 1614766799
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1567,7 +1567,7 @@ SplineSet
  131 748 131 748 116.455078125 735.599609375 c 128,-1,89
  102 723 102 723 102.389648438 703.6796875 c 2,60,-1
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: C
@@ -2200,7 +2200,7 @@ SplineSet
  131 -45 131 -45 116.455078125 -32.599609375 c 128,-1,91
  102 -20 102 -20 102.389648438 -0.6796875 c 2,62,-1
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: Q
@@ -2336,7 +2336,7 @@ SplineSet
  573 104 573 104 592 90 c 128,-1,62
  611 76 611 76 629 76 c 2,28,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: S
@@ -2909,26 +2909,26 @@ EndChar
 
 StartChar: underscore
 Encoding: 95 95 65
-Width: 405
+Width: 382
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-372.5 15 m 1,0,1
- 329 15 329 15 273 43 c 128,-1,2
- 217 71 217 71 191 71 c 128,-1,3
- 165 71 165 71 131 41.5 c 128,-1,4
- 97 12 97 12 73 12 c 128,-1,5
- 49 12 49 12 37 23 c 128,-1,6
- 25 34 25 34 25 52 c 0,7,8
- 25 85 25 85 73 116 c 128,-1,9
- 121 147 121 147 176 147 c 128,-1,10
- 231 147 231 147 288 118.5 c 128,-1,11
- 345 90 345 90 370.5 90 c 1,12,-1
- 372.5 15 l 1,0,1
+192.46875 27.947265625 m 28,0,-1
+ 51.2490234375 11.2470703125 l 2,1,2
+ 37 10 37 10 26.0849609375 22.875 c 0,3,4
+ 17 33 17 33 16.5146484375 51.9443359375 c 0,5,6
+ 16 68 16 68 25.8352448503 80.7858183054 c 0,7,8
+ 35.374819901 91.4177393186 35.374819901 91.4177393186 51.2490234375 92.6416015625 c 2,9,-1
+ 192.46875 103.529296875 l 28,10,-1
+ 333.36328125 92.6416015625 l 2,11,12
+ 350 91 350 91 358.52734375 81.0146484375 c 0,13,14
+ 368 71 368 71 368.096679688 51.9443359375 c 0,15,16
+ 368 39 368 39 358.52734375 22.875 c 0,17,18
+ 351.079821324 9.14713302698 351.079821324 9.14713302698 333.36328125 11.2470703125 c 2,19,-1
+ 192.46875 27.947265625 l 28,0,-1
 EndSplineSet
-Validated: 524289
 EndChar
 
 StartChar: grave
@@ -3225,7 +3225,7 @@ SplineSet
  179 366 l 1,61,62
  206 364 206 364 246 365 c 2,20,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Kerns2: 71 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 1"
 EndChar
 
@@ -13329,7 +13329,7 @@ SplineSet
  110.26953125 -21 110.26953125 -21 113 50 c 2,73,-1
  130 492 l 1,57,-1
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: Eogonek
@@ -13406,7 +13406,7 @@ SplineSet
  621 158 621 158 652.5 228 c 132,-1,76
  684 298 684 298 684 376 c 4,56,57
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: eogonek
@@ -13429,7 +13429,7 @@ SplineSet
  345 90 345 90 370.5 90 c 1,12,-1
  372.5 15 l 1,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Ecaron
@@ -13481,7 +13481,7 @@ SplineSet
  387.994140625 10.056640625 387.994140625 10.056640625 368.573242188 10.8154296875 c 6,18,-1
  213.956054688 19.603515625 l 28,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
